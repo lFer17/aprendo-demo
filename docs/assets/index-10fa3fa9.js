@@ -1037,7 +1037,7 @@ p{
 
 
 
-`,t5=()=>{const{pathname:e}=dr();return S.jsxs(n5,{children:[S.jsx("h1",{children:S.jsx(Ri,{to:"/",children:"C . E . A . J"})}),S.jsxs("ul",{children:[S.jsxs("li",{children:[S.jsx(Ri,{to:"/",children:" NOSOTROS "}),S.jsx(fu,{transition:{duration:.75},initial:{width:"0%"},animate:{width:e==="/"?"100%":"0%"}})]}),S.jsxs("li",{children:[S.jsx(Ri,{to:"/work",children:" SERVICIOS "}),S.jsx(fu,{transition:{duration:.75},initial:{width:"0%"},animate:{width:e==="/work"?"100%":"0%"}})]}),S.jsxs("li",{children:[S.jsx(Ri,{to:"/contact",children:" CONTACTANOS "}),S.jsx(fu,{transition:{duration:.75},initial:{width:"0%"},animate:{width:e==="/contact"?"100%":"0%"}})]})]})]})},fu=Y($.div)`
+`,t5=()=>{const{pathname:e}=dr();return S.jsxs(n5,{children:[S.jsx("h1",{children:S.jsx(Ri,{to:"/aprendo-demo/",children:"C . E . A . J"})}),S.jsxs("ul",{children:[S.jsxs("li",{children:[S.jsx(Ri,{to:"/aprendo-demo/",children:" NOSOTROS "}),S.jsx(fu,{transition:{duration:.75},initial:{width:"0%"},animate:{width:e==="/aprendo-demo/"?"100%":"0%"}})]}),S.jsxs("li",{children:[S.jsx(Ri,{to:"/work",children:" SERVICIOS "}),S.jsx(fu,{transition:{duration:.75},initial:{width:"0%"},animate:{width:e==="/work"?"100%":"0%"}})]}),S.jsxs("li",{children:[S.jsx(Ri,{to:"/contact",children:" CONTACTANOS "}),S.jsx(fu,{transition:{duration:.75},initial:{width:"0%"},animate:{width:e==="/contact"?"100%":"0%"}})]})]})]})},fu=Y($.div)`
     margin-top: 4px;
     margin-left: 1px;
     background-color: #f3f727;
