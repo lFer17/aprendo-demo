@@ -1235,4 +1235,4 @@ p{
         font-size: 0.8rem;
         min-height: 8vh;
     }
-`;function g5(){const e=dr();return S.jsxs(S.Fragment,{children:[S.jsx(e5,{}),S.jsx(t5,{}),S.jsx(LC,{mode:"wait",children:S.jsxs(TP,{location:e,children:[S.jsx(Ba,{exact:!0,path:"/",Component:Jb}),S.jsx(Ba,{path:"/work",Component:r5}),S.jsx(Ba,{path:"/contact",Component:c5})]},e.pathname)}),S.jsx(h5,{})]})}hu.createRoot(document.getElementById("root")).render(S.jsx(Fe.StrictMode,{children:S.jsx(MP,{children:S.jsx(g5,{})})}));
+`;function g5(){const e=dr();return S.jsxs(S.Fragment,{children:[S.jsx(e5,{}),S.jsx(t5,{}),S.jsx(LC,{mode:"wait",children:S.jsxs(TP,{location:e,children:[S.jsx(Ba,{exact:!0,path:"/aprendo-demo/",Component:Jb}),S.jsx(Ba,{path:"/work",Component:r5}),S.jsx(Ba,{path:"/contact",Component:c5})]},e.pathname)}),S.jsx(h5,{})]})}hu.createRoot(document.getElementById("root")).render(S.jsx(Fe.StrictMode,{children:S.jsx(MP,{children:S.jsx(g5,{})})}));
